@@ -1,6 +1,8 @@
 # Reinforcement Learning
 ## Project: Train a Smartcab How to Drive
 
+[image1]: ./imgs/img_01.png "result"
+
 ---
 
 ## Description
@@ -9,6 +11,13 @@ In the not-so-distant future, taxicab companies across the World no longer emplo
 In major metropolitan areas, such as Chicago, New York City, and San Francisco, an increasing number of people have come to depend on *smartcabs* to get to where they need to go as safely and reliably as possible. Although *smartcabs* have become the transport of choice, concerns have arose that a self-driving agent might not be as safe or reliable as human drivers, particularly when considering city traffic lights and other vehicles. 
 
 To alleviate these concerns, the task as an employee for a hypothetical National Taxicab Company is to use Reinforcement learning techniques to construct a demonstration of a *smartcab* operating in real-time to prove that both **safety** and **reliability** can be achieved.
+
+---
+
+Results for improved Q-Learning simulation:
+
+![alt text][image1]
+
 
 ## Overview
 In this project Reinforcement learning techniques applied for a self-driving agent in a simplified world to aid it in effectively reaching its destinations in the allotted time. 
